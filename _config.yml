@@ -1,0 +1,15 @@
+name: WAWESOME
+description: Blogging about awesome things.
+meta_description: "WAWESOME - blogging about awesome stuff."
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://wassimk.github.com/'
+google_analytics: 'UA-63869523-1'
+
+# Details for the RSS feed generator
+url:            'wassimk.github.com'
+author:         'Wassim Metallaoui'
