@@ -140,6 +140,8 @@ DEPENDENCIES
   github-markdown
   github-pages
   jekyll
+  jekyll-feed
+  jekyll-sitemap
 
 BUNDLED WITH
    1.10.3
