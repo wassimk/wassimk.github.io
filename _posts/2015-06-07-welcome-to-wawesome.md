@@ -3,13 +3,14 @@ layout: post
 title:  "Welcome to WAWESOME!"
 categories:
 ---
-
-Welcome to my blog. Most of my writing is meant to reinforce my own learning. I often reference these pages as I work. I hope it's of use to you as well.
+Welcome to my blog. It's so awesome here, huh?
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
+def hi(name)
+  puts "Hi, website #{name}."
 end
-print_hi('Reader')
-#=> prints 'Hi, Reader' to STDOUT.
+
+hi('guest')
+#=> 'Hi, website guest.'
+
 {% endhighlight %}
