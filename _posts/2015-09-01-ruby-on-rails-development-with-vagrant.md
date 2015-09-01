@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ruby on Rails Development with RVM, PostgreSQL and Redis using Vagrant
-categories: AWS
+categories: Heroku "Ruby on Rails" Vagrant
 ---
 
 ## Overview
