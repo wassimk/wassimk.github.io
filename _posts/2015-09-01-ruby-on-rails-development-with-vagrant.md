@@ -24,9 +24,11 @@ You will need to install Vagrant and VirtualBox first.
   2. Install [VirtualBox]
 
 The next step involves adding the Chef plugin to Vagrant that allow us to automatically build
-the virtual machine with Chef Solo.
+the virtual machine with [Chef Solo]. We also add a plugin called [vagrant-vbguest] that manages
+the VirtualBox guest additions automatically.
 
     % vagrant plugin install vagrant-librarian-chef-nochef
+    % vagrant plugin install vagrant-vbguest
 
 ## Configuring Chef
 
@@ -137,4 +139,5 @@ most applications and I use [foreman] to start up a web server and worker proces
 [Postgres.app]: http://postgresapp.com/
 [Vagrant]: https://www.vagrantup.com/
 [Chef Solo]: http://docs.vagrantup.com/v2/provisioning/chef_solo.html
+[vagrant-vbguest]: https://github.com/dotless-de/vagrant-vbguest
 [VirtualBox]: http://www.virtualbox.org/
