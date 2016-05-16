@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  Ruby on Rails Development with RVM, PostgreSQL and Redis using Vagrant
-categories: Heroku "Ruby on Rails" Vagrant
+categories:
+  - Heroku
+  - Ruby on Rails
+  - Vagrant
 ---
 
-## Overview
 My Ruby on Rails development environment runs locally on a Mac and for a long time I used the
 built-in web server and SQLite database system. The setup works for simple applications but I
 always got to a point where development, staging and ultimately production have little differences
