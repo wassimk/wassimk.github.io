@@ -56,5 +56,5 @@ That's it. You now have a `.dotfiles` directory with your first few dotfiles bei
 
 For a simple to use set of utilities to handle this whole process checkout the [rcm] suite.
 
-[my dotfiles]: (http://github.com/wassimk/dotfiles)
+[my dotfiles]: https://github.com/wassimk/dotfiles
 [rcm]: https://github.com/thoughtbot/rcm
