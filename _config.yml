@@ -3,8 +3,7 @@ description: Blogging about awesome stuff.
 meta_description: WAWESOME - blogging about awesome stuff.
 twitter: '@wassimk'
 
-markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
